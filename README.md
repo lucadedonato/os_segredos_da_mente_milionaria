@@ -3,7 +3,7 @@ T. Harv Eker
 
 
 <p align="center">
-  <img src="https://m.media-amazon.com/images/I/81WzW3xJb5L.jpg" width="100">
+  <img src="https://m.media-amazon.com/images/I/81WzW3xJb5L.jpg" width="200">
 </p>
 
 
