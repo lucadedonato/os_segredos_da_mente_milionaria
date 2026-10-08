@@ -1,5 +1,5 @@
 <h1 align="center">Os Segredos da Mente Milionária</h1>
-T. Harv Eker
+<p align="center">T. Harv Eker</p>
 
 
 <p align="center">
@@ -7,7 +7,7 @@ T. Harv Eker
 </p>
 
 
-### Arquivo de Riqueza nº 1
+<h3 align="center">Arquivo de Riqueza nº 1</h3>
 ```bash
 # Arquivo de Riqueza nº 1
 
@@ -34,7 +34,7 @@ T. Harv Eker
 ```
 
 
-### Arquivo de Riqueza nº 2
+<h3 align="center">Arquivo de Riqueza nº 2</h3>
 ```bash
 # Arquivo de Riqueza nº 2
 
@@ -62,7 +62,7 @@ T. Harv Eker
 ```
 
 
-### Arquivo de Riqueza nº 3
+<h3 align="center">Arquivo de Riqueza nº 3</h3>
 ```bash
 # Arquivo de Riqueza nº 3
 
@@ -98,7 +98,7 @@ T. Harv Eker
 ```
 
 
-### Arquivo de Riqueza nº 4
+<h3 align="center">Arquivo de Riqueza nº 4</h3>
 ```bash
 # Arquivo de Riqueza nº 4
 
@@ -130,7 +130,7 @@ T. Harv Eker
 ```
 
 
-### Arquivo de Riqueza nº 5
+<h3 align="center">Arquivo de Riqueza nº 5</h3>
 ```bash
 # Arquivo de Riqueza nº 5
 
@@ -155,7 +155,33 @@ T. Harv Eker
 ```
 
 
-### Arquivo de Riqueza nº 7
+<h3 align="center">Arquivo de Riqueza nº 6</h3>
+```bash
+# Arquivo de Riqueza nº 6
+
+    Pessoas de mentalidade pobre tem ódio dos ricos.
+
+    Geralmente guardam inveja, ciúmes, frustração ou incômodo de ver alguém bem-sucedido.
+    Acreditam que ser rico é algo negativo, injusto ou errado.
+
+    Pensam que os ricos não merecem a riqueza que têm, como:
+    ---> "Com certeza foi sorte"
+    ---> "Esse aí só ficou rico passando por cima dos outros"
+    ---> "Deve ter dado golpe em alguém"
+
+    Isso cria um conflito interno.
+    Como você pode/quer ser algo que despreza?
+
+    Os ricos admiram e buscam aprender com quem venceu.
+    Pois o sucesso deixa pistas — e quanto mais você seguir, mais rápido pode alcançar!
+
+# Arquivo de Riqueza
+---> Os pobres acreditam: Dinheiro é algo errado ou resultado de sorte
+---> Os ricos acreditam: Dinheiro é a base para tudo
+```
+
+
+<h3 align="center">Arquivo de Riqueza nº 7</h3>
 ```bash
 # Arquivo de Riqueza nº 7
 
@@ -176,7 +202,7 @@ T. Harv Eker
 ```
 
 
-### Arquivo de Riqueza nº 8
+<h3 align="center">Arquivo de Riqueza nº 8</h3>
 ```bash
 # Arquivo de Riqueza nº 8
 
@@ -201,7 +227,7 @@ T. Harv Eker
 ```
 
 
-### Arquivo de Riqueza nº 9
+<h3 align="center">Arquivo de Riqueza nº 9</h3>
 ```bash
 # Arquivo de Riqueza nº 9
 
@@ -224,7 +250,7 @@ T. Harv Eker
 ```
 
 
-### Arquivo de Riqueza nº 10
+<h3 align="center">Arquivo de Riqueza nº 10</h3>
 ```bash
 # Arquivo de Riqueza nº 10
 
@@ -247,7 +273,7 @@ T. Harv Eker
 ```
 
 
-### Arquivo de Riqueza nº 11
+<h3 align="center">Arquivo de Riqueza nº 11</h3>
 ```bash
 # Arquivo de Riqueza nº 11
 
@@ -276,7 +302,7 @@ T. Harv Eker
 ```
 
 
-### Arquivo de Riqueza nº 12
+<h3 align="center">Arquivo de Riqueza nº 12</h3>
 ```bash
 # Arquivo de Riqueza nº 12
 
@@ -297,7 +323,7 @@ T. Harv Eker
 ```
 
 
-### Arquivo de Riqueza nº 13
+<h3 align="center">Arquivo de Riqueza nº 13</h3>
 ```bash
 # Arquivo de Riqueza nº 13
 
@@ -339,7 +365,7 @@ T. Harv Eker
 ```
 
 
-### Arquivo de Riqueza nº 14
+<h3 align="center">Arquivo de Riqueza nº 14</h3>
 ```bash
 # Arquivo de Riqueza nº 14
 
@@ -365,7 +391,7 @@ T. Harv Eker
 ```
 
 
-### Arquivo de Riqueza nº 15
+<h3 align="center">Arquivo de Riqueza nº 15</h3>
 ```bash
 # Arquivo de Riqueza nº 15
 
@@ -396,7 +422,7 @@ T. Harv Eker
 ```
 
 
-### Arquivo de Riqueza nº 16
+<h3 align="center">Arquivo de Riqueza nº 16</h3>
 ```bash
 # Arquivo de Riqueza nº 16
 
@@ -424,7 +450,7 @@ T. Harv Eker
 ```
 
 
-### Arquivo de Riqueza nº 17
+<h3 align="center">Arquivo de Riqueza nº 17</h3>
 ```bash
 # Arquivo de Riqueza nº 17
 
