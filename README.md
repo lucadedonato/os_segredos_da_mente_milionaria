@@ -1,5 +1,5 @@
 <h1 align="center">Os Segredos da Mente Milionária</h1>
-<p align="center">T. Harv Eker</p>
+T. Harv Eker
 
 
 <p align="center">
