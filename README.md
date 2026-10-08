@@ -1,6 +1,9 @@
 <h1 align="center">Os Segredos da Mente Milionária</h1>
 T. Harv Eker
 
+<p align="center">
+  <img src="https://m.media-amazon.com/images/I/81WzW3xJb5L.jpg">
+</p>
 
 ### Arquivo de Riqueza nº 1
 ```bash
